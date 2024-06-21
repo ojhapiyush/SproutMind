@@ -1,1 +1,1 @@
-# KrishiSahayak
+# SproutMind
