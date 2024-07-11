@@ -5,7 +5,7 @@ import pandas as pd
 
 ## anthropic key
 client = anthropic.Anthropic(
-    api_key= "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",
+    api_key= API_KEY,
 )
 
 def conversation():
